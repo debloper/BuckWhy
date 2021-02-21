@@ -1,0 +1,12 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Css,MuRata,GRM155R71C822KA01D,1,0.01,3,Cap: 8.2 nF  Total Derated Cap: 8.2 nF  VDC: 16 V  ESR: 1 mΩ  Package: 0402  
+Rfbb,Yageo,RT0805BRD0711K1L,1,0.06,6.75,Resistance: 11.1 kΩ  Tolerance: 0.1%  Power: 125 mW  
+Cout,Panasonic,25SVPF47M,2,0.44,73.96,Cap: 47 µF  Total Derated Cap: 94 µF  VDC: 25 V  ESR: 30 mΩ  Package: 6.3x6  
+L1,TDK,VLP8040T-1R0N,1,0.22,113.42,L: 1 µH  DCR: 11 mΩ  IDC: 9.4 A  
+Cboot,Kemet,C0805C104M5RACTU,1,0.01,6.75,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 50 V  ESR: 64 mΩ  Package: 0805  
+Cin,MuRata,GRM21BR61E106MA73L,2,0.05,6.75,Cap: 10 µF  Total Derated Cap: 2.4 µF  VDC: 25 V  ESR: 4 mΩ  Package: 0805  
+U1,Texas Instruments,LMR14050SDDAR,1,1.056,55.2,
+Rt,Vishay-Dale,CRCW040210K5FKED,1,0.01,3,Resistance: 10.5 kΩ  Tolerance: 1.0%  Power: 63 mW  
+D1,Diodes Inc.,B540C-13-F,1,0.17,83.27,Type: Schottky  VRRM: 40 V  Io: 5 A  
+Rfbt,Vishay-Dale,CRCW0402174KFKED,1,0.01,3,Resistance: 174 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Cff,MuRata,GRM033R71E331KA01D,1,0.01,2.08,Cap: 330 pF  Total Derated Cap: 330 pF  VDC: 25 V  ESR: 1 mΩ  Package: 0201  

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304px" height="304px" viewbox="0 0 304 304" version="1.1">
+  <title>LMR14020_30_50_BUCK_DDA_A_top: null</title>
+  <desc>LMR14020_30_50_BUCK_DDA_A WebTHERM&amp;reg; Board Layout file</desc>
+<defs>
+<g id="0805">
+  <g id="MASK" style="display:none;">
+  	<g style="display:inline;">
+  		<rect x="0.279" y="0.279" width="7.442" height="4.442"/>
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect style="fill:#CBCBCB;" width="8" height="5"/>
+  	<rect x="1.75" style="fill:#363636;" width="4.5" height="5"/>
+  </g>
+  <g id="OUTLINE" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M5.656,0.594v3.812H2.344V0.594H5.656 M6.25,0h-4.5v5h4.5V0L6.25,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="0201">
+  <g id="Mask" display="none">
+  	<rect x="0.5" y="0.5" display="inline" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.5" y="0.5" fill="#404040" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.5" y="0.5" display="inline" fill="none" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+</g>
+<g id="CAPSMT_62_F61">
+  <g id="MASK" display="none">
+  	<rect x="0.5" y="12.021" display="inline" stroke="#000000" width="28.8" height="3.359"/>
+  	<polygon display="inline" stroke="#000000" points="22.296,0.5 1.401,0.5 1.401,26.9 22.459,26.9 28.399,21.102 28.399,6.5 	"/>
+  </g>
+  <g id="COLOR">
+  	<rect x="0.5" y="12.021" fill="#CCCCCC" stroke="#000000" width="28.8" height="3.359"/>
+  	<polygon fill="#666666" stroke="#000000" points="22.296,0.5 1.401,0.5 1.401,26.9 22.459,26.9 28.399,21.102 28.399,6.5 	"/>
+  	<circle fill="#CCCCCC" stroke="#000000" cx="14.9" cy="13.7" r="12"/>
+  </g>
+  <g id="OUTLINE" display="none">
+  	<line display="inline" fill="none" stroke="#000000" stroke-linecap="square" x1="0.5" y1="15.38" x2="0.5" y2="12.021"/>
+  	<line display="inline" fill="none" stroke="#000000" stroke-linecap="square" x1="29.3" y1="12.021" x2="29.3" y2="15.38"/>
+  	<polygon display="inline" fill="none" stroke="#000000" points="22.296,0.5 1.401,0.5 1.401,26.9 22.459,26.9 28.399,21.102 
+  		28.399,6.5 	"/>
+  	<circle display="inline" fill="none" stroke="#000000" cx="14.9" cy="13.7" r="12"/>
+  </g>
+</g>
+<g id="0402">
+  <g id="MASK" display="none">
+  	<g display="inline">
+  		<rect x="0.125" y="0.125" width="3.752" height="1.757"/>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect fill="#CBCBCB" width="4.002" height="2.007"/>
+  	<rect x="1.008" fill="#363636" width="1.986" height="2.007"/>
+  </g>
+  <g id="OUTLINE">
+  	<g>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  	<g>
+  		<path d="M2.744,0.25v1.507H1.258V0.25H2.744 M2.994,0H1.008v2.007h1.986V0L2.994,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="SMC">
+  <g id="Mask" display="none">
+  	<rect x="0.5" y="6.579" display="inline" width="32.343" height="11.254"/>
+  	<rect x="2.873" y="0.593" display="inline" width="27.571" height="24.162"/>
+  	<rect x="5.686" y="0.314" display="inline" width="4.608" height="24.88"/>
+  	<polygon display="inline" stroke="#000000" points="3.107,0.5 30.118,0.5 30.118,6.339 33.02,6.339 33.02,17.905 30.186,17.905 
+  		30.186,24.916 3.195,24.916 3.195,17.702 0.5,17.702 0.5,6.597 3.195,6.597 	"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.5" y="6.579" fill="#CCCCCC" width="32.343" height="11.254"/>
+  	<rect x="2.873" y="0.593" fill="#666666" width="27.571" height="24.162"/>
+  	<rect x="5.686" y="0.314" width="4.608" height="24.88"/>
+  	<polygon fill="none" stroke="#000000" points="3.107,0.5 30.118,0.5 30.118,6.339 33.02,6.339 33.02,17.905 30.186,17.905 
+  		30.186,24.916 3.195,24.916 3.195,17.702 0.5,17.702 0.5,6.597 3.195,6.597 	"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.5" y="6.579" display="inline" fill="#FFFFFF" width="32.343" height="11.254"/>
+  	<rect x="2.873" y="0.593" display="inline" fill="#FFFFFF" width="27.571" height="24.162"/>
+  	<rect x="5.686" y="0.314" display="inline" fill="#FFFFFF" width="4.608" height="24.88"/>
+  	<polygon display="inline" fill="#FFFFFF" stroke="#000000" points="3.107,0.5 30.118,0.5 30.118,6.339 33.02,6.339 33.02,17.905 
+  		30.186,17.905 30.186,24.916 3.195,24.916 3.195,17.702 0.5,17.702 0.5,6.597 3.195,6.597 	"/>
+  </g>
+</g>
+<g id="VLP8040">
+  <g id="Mask" display="none">
+  	<rect x="0.5" y="0.5" display="inline" stroke="#000000" width="27.2" height="27.2"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.5" y="0.5" fill="#404040" stroke="#000000" width="27.2" height="27.2"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.5" y="0.5" display="inline" fill="none" stroke="#000000" width="27.2" height="27.2"/>
+  </g>
+</g>
+<g id="DDA0008E_N">
+  <g id="Mask" display="none">
+  	<rect x="4.5" y="0.5" display="inline" stroke="#000000" width="16" height="20"/>
+  	<g display="inline">
+  		<polygon points="4.5,2.001 0,2.001 0,4.001 4.5,4.001 4.5,2.001 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,7.042 0,7.042 0,9.042 4.5,9.042 4.5,7.042 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,12.084 0,12.084 0,14.084 4.5,14.084 4.5,12.084 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,17.126 0,17.126 0,19.126 4.5,19.126 4.5,17.126 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,2.001 20.5,2.001 20.5,4.001 25,4.001 25,2.001 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,7.042 20.5,7.042 20.5,9.042 25,9.042 25,7.042 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,12.084 20.5,12.084 20.5,14.084 25,14.084 25,12.084 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,17.126 20.5,17.126 20.5,19.126 25,19.126 25,17.126 		"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	<rect x="4.5" y="0.5" fill="#999999" stroke="#000000" width="16" height="20"/>
+  	<g>
+  		<polygon points="4.5,2.001 0,2.001 0,4.001 4.5,4.001 4.5,2.001 		"/>
+  	</g>
+  	<g>
+  		<polygon points="4.5,7.042 0,7.042 0,9.042 4.5,9.042 4.5,7.042 		"/>
+  	</g>
+  	<g>
+  		<polygon points="4.5,12.084 0,12.084 0,14.084 4.5,14.084 4.5,12.084 		"/>
+  	</g>
+  	<g>
+  		<polygon points="4.5,17.126 0,17.126 0,19.126 4.5,19.126 4.5,17.126 		"/>
+  	</g>
+  	<g>
+  		<polygon points="25,2.001 20.5,2.001 20.5,4.001 25,4.001 25,2.001 		"/>
+  	</g>
+  	<g>
+  		<polygon points="25,7.042 20.5,7.042 20.5,9.042 25,9.042 25,7.042 		"/>
+  	</g>
+  	<g>
+  		<polygon points="25,12.084 20.5,12.084 20.5,14.084 25,14.084 25,12.084 		"/>
+  	</g>
+  	<g>
+  		<polygon points="25,17.126 20.5,17.126 20.5,19.126 25,19.126 25,17.126 		"/>
+  	</g>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="4.5" y="0.5" display="inline" fill="none" stroke="#000000" width="16" height="20"/>
+  	<g display="inline">
+  		<polygon points="4.5,2.001 0,2.001 0,4.001 4.5,4.001 4.5,2.001 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,7.042 0,7.042 0,9.042 4.5,9.042 4.5,7.042 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,12.084 0,12.084 0,14.084 4.5,14.084 4.5,12.084 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="4.5,17.126 0,17.126 0,19.126 4.5,19.126 4.5,17.126 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,2.001 20.5,2.001 20.5,4.001 25,4.001 25,2.001 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,7.042 20.5,7.042 20.5,9.042 25,9.042 25,7.042 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,12.084 20.5,12.084 20.5,14.084 25,14.084 25,12.084 		"/>
+  	</g>
+  	<g display="inline">
+  		<polygon points="25,17.126 20.5,17.126 20.5,19.126 25,19.126 25,17.126 		"/>
+  	</g>
+  </g>
+</g>
+</defs>
+<g id="boardComps">
+  <g id="topview_images">
+    <use x="192.0" y="160.0" width="8.0" height="5.0" transform="rotate(-180.0 196.0 162.0)" name="9_Cboot_0805" xlink:href="#0805" />
+    <use x="210.0" y="198.0" width="3.0" height="2.0" transform="rotate(-180.0 212.0 199.0)" name="16_Cff_0201" xlink:href="#0201" />
+    <use x="131.0" y="164.0" width="8.0" height="5.0" transform="rotate(-90.0 135.0 167.0)" name="2_Cin_1_0805" xlink:href="#0805" />
+    <use x="120.0" y="164.0" width="8.0" height="5.0" transform="rotate(-90.0 124.0 167.0)" name="2_Cin_2_0805" xlink:href="#0805" />
+    <use x="146.0" y="54.0" width="29.0" height="27.0" transform="rotate(-90.0 161.0 67.0)" name="12_Cout_1_CAPSMT_62_F61" xlink:href="#CAPSMT_62_F61" />
+    <use x="117.0" y="54.0" width="29.0" height="27.0" transform="rotate(-90.0 131.0 67.0)" name="12_Cout_2_CAPSMT_62_F61" xlink:href="#CAPSMT_62_F61" />
+    <use x="194.0" y="173.0" width="4.0" height="2.0" name="11_Css_0402" xlink:href="#0402" />
+    <use x="159.0" y="122.0" width="33.0" height="25.0" transform="rotate(-180.0 176.0 134.0)" name="15_D1_SMC" xlink:href="#SMC" />
+    <rect x="15.0" y="109.0" width="6.0" height="6.0" name="3_GND_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="16.0" y="144.0" width="6.0" height="6.0" name="5_GND1_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <use x="180.0" y="54.0" width="28.0" height="28.0" transform="rotate(-90.0 194.0 68.0)" name="1_L1_VLP8040" xlink:href="#VLP8040" />
+    <use x="189.0" y="191.0" width="8.0" height="5.0" transform="rotate(-270.0 193.0 194.0)" name="8_Rfbb_0805" xlink:href="#0805" />
+    <use x="210.0" y="189.0" width="4.0" height="2.0" transform="rotate(-180.0 212.0 190.0)" name="7_Rfbt_0402" xlink:href="#0402" />
+    <use x="162.0" y="188.0" width="4.0" height="2.0" name="10_Rt_0402" xlink:href="#0402" />
+    <use x="158.0" y="161.0" width="25.0" height="21.0" name="13_U1_DDA0008E_N" xlink:href="#DDA0008E_N" />
+    <rect x="16.0" y="178.0" width="6.0" height="6.0" name="6_VIN_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="15.0" y="18.0" width="6.0" height="6.0" name="4_VOUT_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="162.0" y="208.0" width="6.0" height="6.0" name="14_VSYNC_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+  </g>
+</g>
+</svg>
